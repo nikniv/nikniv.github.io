@@ -3,12 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://niksh.com/</loc>
-    <lastmod>2020-06-14T11:41:03+05:30</lastmod>
+    <loc>https://niksh.com/tags/quotes/</loc>
+    <lastmod>2020-06-15T03:24:43+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://niksh.com/quotes-by-carl-sagan/</loc>
+    <lastmod>2020-06-15T03:24:43+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://niksh.com/tags/</loc>
+    <lastmod>2020-06-15T03:24:43+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://niksh.com/about/</loc>
+    <lastmod>2020-06-14T22:44:40+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://niksh.com/post/</loc>
+    <lastmod>2020-06-14T22:40:16+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://niksh.com/</loc>
+    <lastmod>2020-06-14T22:37:54+05:30</lastmod>
   </url>
   
 </urlset>

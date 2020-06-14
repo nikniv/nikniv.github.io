@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Nik Nivedit</title>
-    <link>https://niksh.com/</link>
-    <description>Recent content in Home on Nik Nivedit</description>
+    <title>Blog on Nik Nivedit</title>
+    <link>https://niksh.com/post/</link>
+    <description>Recent content in Blog on Nik Nivedit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jun 2020 11:41:03 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2020 22:40:16 +0530</lastBuildDate>
     
-	<atom:link href="https://niksh.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://niksh.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,18 +18,6 @@
       
       <guid>https://niksh.com/quotes-by-carl-sagan/</guid>
       <description>The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of star stuff. We are a way for the cosmos to know itself. &amp;mdash; Carl Sagan   For small creatures such as we the vastness is bearable only through love. &amp;mdash; Carl Sagan   One glance at a book and you hear the voice of another person, perhaps someone dead for 1,000 years.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://niksh.com/about/</link>
-      <pubDate>Sun, 14 Jun 2020 22:44:40 +0530</pubDate>
-      
-      <guid>https://niksh.com/about/</guid>
-      <description>Nik is a Senior Software Engineer at ImageKit. He enjoys working on applications in Node.js, React, MongoDB and Express.
-He is also an international tech speaker who has given talks related to JS ecosystem at several global conferences.
-This website started as a way for him to write down things that he learns during his day-to-day tasks.
-Occasionally, he might also write about nerd stuff like outer space, games, and cats.</description>
     </item>
     
   </channel>
