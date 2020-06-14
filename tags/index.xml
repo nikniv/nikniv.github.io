@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Nik Nivedit · Homepage</title>
-    <link>https://nikniv.github.io/tags/</link>
-    <description>Recent content in Tags on Nik Nivedit · Homepage</description>
+    <title>Tags on Nik Nivedit</title>
+    <link>https://niksh.com/tags/</link>
+    <description>Recent content in Tags on Nik Nivedit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
     
-	<atom:link href="https://nikniv.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://niksh.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
